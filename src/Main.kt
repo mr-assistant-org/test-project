@@ -1,11 +1,12 @@
+
 fun main() {
     val name = "Kotlin"
     println("Hello, " + name + "!")
 
-    extracted()
+    printNumberSequence()
 }
 
-private fun extracted() {
+private fun printNumberSequence() {
     for (i in 1..5) {
         println("i = $i")
     }
