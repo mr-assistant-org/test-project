@@ -7,6 +7,5 @@ fun main() {
 }
 
 private fun printSequence() {
-        println("i = $i")
     }
 }
