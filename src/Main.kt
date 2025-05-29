@@ -6,7 +6,7 @@ fun main() {
     printNumbersFromOneToFive()
 }
 
-private fun printNumbersFromOneToFive() {
+private fun printSequence() {
     for (i in 1..5) {
         println("i = $i")
     }
