@@ -3,8 +3,7 @@ fun main() {
     val name = "Kotlin"
     println("Hello, " + name + "!")
 
-    printNumbersFromOneToFive()
-}
+printSequence()
 
 private fun printSequence() {
 }
