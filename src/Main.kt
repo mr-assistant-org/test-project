@@ -7,5 +7,4 @@ fun main() {
 }
 
 private fun printSequence() {
-    }
 }
