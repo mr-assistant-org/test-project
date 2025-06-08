@@ -4,6 +4,5 @@ fun main() {
     println("Hello, " + name + "!")
 
 printSequence()
-
 private fun printSequence() {
 private fun printSequence() {
