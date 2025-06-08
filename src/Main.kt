@@ -3,5 +3,4 @@ fun main() {
     val name = "Kotlin"
     println("Hello, " + name + "!")
 
-    printSequence()
-}
+printSequence()
