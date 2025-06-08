@@ -6,5 +6,4 @@ fun main() {
 printSequence()
 
 private fun printSequence() {
-    }
-}
+private fun printSequence() {
