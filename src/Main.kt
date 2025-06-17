@@ -3,7 +3,8 @@ fun main() {
     val name = "Kotlin"
     println("Hello, " + name + "!")
 
-printSequence()
+    printSequence()
+}
 
 private fun printSequence() {
     for (i in 1..5) {
