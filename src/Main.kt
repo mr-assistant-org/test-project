@@ -3,7 +3,13 @@ fun main() {
     val name = "Kotlin"
     println("Hello, " + name + "!")
 
-    printNumbersFromOneToFive()
+    displayNumbersOneToFive()
+}
+
+private fun displayNumbersOneToFive() {
+    for (i in 1..5) {
+        println("i = $i")
+    }
 }
 
 private fun printNumbersFromOneToFive() {
