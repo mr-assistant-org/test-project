@@ -5,8 +5,7 @@ fun main() {
 
 printNumbersWithLabels()
 
-private fun printOneToFive() {
-    for (i in 1..5) {
+fun printOneToFive() {
         println("i = $i")
     }
 }
